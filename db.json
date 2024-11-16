@@ -1,0 +1,130 @@
+{
+  "palabras": [
+    {
+      "id": "1",
+      "español": "el señor",
+      "aleman": "der Herr",
+      "imagen": "https://st4.depositphotos.com/17418852/21656/v/450/depositphotos_216562546-stock-illustration-young-man-pointing-away-showing.jpg"
+    },
+    {
+      "id": "2",
+      "español": "la señora",
+      "aleman": "die Frau",
+      "imagen": "https://i.pinimg.com/236x/e8/92/d1/e892d1ee9645881f6292d75cc51904db.jpg"
+    },
+    {
+      "id": "4",
+      "español": "el pan",
+      "aleman": "das Brot",
+      "imagen": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "5",
+      "español": "la naranja",
+      "aleman": "die Orange",
+      "imagen": "https://historiasdelahistoria.com/wp-content/uploads/2015/11/naranja.jpg"
+    },
+    {
+      "id": "6",
+      "español": "las verduras",
+      "aleman": "das Gemüse",
+      "imagen": "https://www.sonidosderosario.com.ar/wp-content/uploads/2020/03/psr-verduleria-quico-av-o-lagos-y-fontezuela.jpg"
+    },
+    {
+      "id": "7",
+      "español": "la botella",
+      "aleman": "die Flasche",
+      "imagen": "https://www.euroglas.de/wp-content/uploads/2021/09/974_Milchflasche_Fraicheur_1000ml_weiss-scaled.jpg"
+    },
+    {
+      "id": "8",
+      "español": "la mesa",
+      "aleman": "der Tisch",
+      "imagen": "https://meblero.com/wp-content/uploads/2023/07/Medidas-de-mesa-de-comedor-como-elegir.jpg"
+    },
+    {
+      "id": "9",
+      "español": "la silla",
+      "aleman": "der Sthul",
+      "imagen": "https://www.ofisillas.es/blog/wp-content/uploads/2015/10/Silla-de-escritorio-de-madera.jpg"
+    },
+    {
+      "id": "10",
+      "español": "la heladera",
+      "aleman": "der Kühlschrank",
+      "imagen": "https://blog.drean.com.ar/wp-content/uploads/2022/12/2-HeladeraNoFrost.webp"
+    },
+    {
+      "id": "11",
+      "español": "el pantano",
+      "aleman": "der Sumpf",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Pantanal%2C_south-central_South_America_5170.jpg"
+    },
+    {
+      "id": "12",
+      "español": "el vino ",
+      "aleman": "der Wein",
+      "imagen": "https://www.bodegasmurilloviteri.com/wp-content/uploads/2019/06/vino-autor-libertad-expresion.jpg"
+    },
+    {
+      "id": "13",
+      "español": "el agua",
+      "aleman": "das Wasser",
+      "imagen": "https://bcdn.products.pcc.eu/wp-content/uploads/2022/09/FOT1-pH-wody.jpg"
+    },
+    {
+      "id": "14",
+      "español": "el armario",
+      "aleman": "der Schrank",
+      "imagen": "https://image.made-in-china.com/202f0j00VjoldicRLKqr/Sliding-Door-Walk-in-Closet-Furniture-Bedroom-Modern-Just-Wood-Wardrobe.webp"
+    },
+    {
+      "id": "15",
+      "español": "la puerta",
+      "aleman": "die Tür",
+      "imagen": "https://image.made-in-china.com/202f0j00sCaYderGbFbT/New-Design-Wood-Skin-Door-Melamine-Door.webp"
+    },
+    {
+      "id": "16",
+      "español": "la banana",
+      "aleman": "die Banane",
+      "imagen": "https://static.wixstatic.com/media/53e8bb_a1e88e551162485eb4ff962437300872~mv2.jpeg/v1/crop/x_0,y_105,w_1024,h_919/fill/w_560,h_560,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Banana.jpeg"
+    },
+    {
+      "id": "17",
+      "español": "el lavarropas",
+      "aleman": "die Waschmaschine",
+      "imagen": "https://static.hendel.com/media/catalog/product/cache/0c3e9ac8430b5a3e77d1544ae1698a10/3/4/34423.jpg"
+    },
+    {
+      "id": "18",
+      "español": "el libro",
+      "aleman": "das Buch",
+      "imagen": "https://static.vecteezy.com/system/resources/previews/007/517/574/non_2x/red-closed-book-school-collection-illustration-cartoon-style-on-a-white-background-vector.jpg"
+    },
+    {
+      "id": "19",
+      "español": "la lámpara",
+      "aleman": "die Lampe",
+      "imagen": "https://m.media-amazon.com/images/I/7172VQx5jOL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "20",
+      "español": "el sofá",
+      "aleman": "das Sofa",
+      "imagen": "https://www.ikea.com/de/de/images/products/vimle-3er-sofa-gunnared-mittelgrau__0514368_pe639441_s5.jpg?f=s"
+    },
+    {
+      "id": "21",
+      "español": "el chocolate",
+      "aleman": "die Schokolade",
+      "imagen": "https://media.istockphoto.com/id/121282958/de/foto/schokolade.jpg?s=612x612&w=0&k=20&c=_Bi7irr-ZdUwfd3OvMv9wB0MiFj_76BT4mc8mLgBN3g="
+    },
+    {
+      "id": "22",
+      "español": "la papa",
+      "aleman": "die Kartoffel",
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+    }
+  ]
+}
